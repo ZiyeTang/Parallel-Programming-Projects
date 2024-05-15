@@ -6,4 +6,4 @@ Lab 5: parallel list reduction</br>
 Lab 6: parallel scan</br>
 Lab 7: parallel histogram calculation</br>
 Lab 8: parallel sparse matrix-vector multiplication with JDS</br>
-Final: parallel convolutional layer</br>
+Final Projects: parallel convolutional layer</br>
